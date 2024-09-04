@@ -57,7 +57,7 @@ When you are ready, commit your changes in master/main using `git add .; git com
 
 Here is a complete example on how to setup your `git`:
 
-```git
+```Shell
 # starting
 git init
 echo .Rproj.user >> .gitignore
